@@ -7,7 +7,7 @@ This open source repository contains example end-to-end workflow for object dete
 5. Active Learning for Object Detection [BACKLOG]
 
 # Example Use Case
-In this project, we will do Bottle Defect Detection for manufacture.
+In this open source project, we will do Bottle Defect Detection for manufacture.
 
 List Dataset:
 1. https://universe.roboflow.com/controle-qualite-pour-les-produits-emballees/water-bottles-defect-detectiion
