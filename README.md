@@ -1,5 +1,5 @@
 # End-to-End-Object-Detection
-This repository contains example end-to-end workflow for object detection analytics.
+This open source repository contains example end-to-end workflow for object detection analytics.
 1. Dataset preprocessing using FiftyOne [BACKLOG]
 2. Reproducible Trainer Object Detection using Ultralytics (YoloV8) [BACKLOG]
 3. Inference Engine using OnnxRuntime and TensorRT [BACKLOG]
