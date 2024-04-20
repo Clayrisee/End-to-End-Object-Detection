@@ -13,3 +13,9 @@ List Dataset:
 1. https://universe.roboflow.com/controle-qualite-pour-les-produits-emballees/water-bottles-defect-detectiion
 2. https://universe.roboflow.com/iza/deep-learning-krtwx
 3. https://universe.roboflow.com/bo-69kux/plastic-bottles-rpeqo
+
+
+# Contact
+If you have any inquiries or want to have your own **CUSTOM OBJECT DETECTION MODEL** you can find me on:
+- Email: ardikatamah@gmail.com
+- Linkedin: https://www.linkedin.com/in/haikalardikatama/
